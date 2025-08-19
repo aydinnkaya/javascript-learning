@@ -13,30 +13,27 @@
 
 // string + number       stringnumber
 
-
-
 // console.log(not1-not2);
 
-// let sayi1 = "5";
-// let sayi2 = 2;
+let sayi1 = "5";
+let sayi2 = 2;
 
-// console.log("Notlarınızın Toplamı :" + (not1+not2));
+console.log("Notlarınızın Toplamı :" + (not1 + not2));
 
 // ü,ö,ş,İ,ğ
 //birleşik olarak tanımlanmalıdır değişken ismi.
-// let musteriNo = 5;
+let musteriNo = 5;
 // let sayi2 = 10;
 
-// console.log(sayi1*sayi2);
+console.log(sayi1 * sayi2);
 
+let not1 = 100;
+let not2 = 70;
 
-// let not1 = 100;
-// let not2 = 70;
+let sonuc = (not1 + not2) / 2;
+console.log(sonuc);
 
-// let sonuc = (not1+not2)/2;
-// console.log(sonuc);
-
-// % : mod alma operatörü 
+// % : mod alma operatörü
 /**
     
     10 / 3   = 1
@@ -45,8 +42,8 @@
 
  */
 
-    // console.log(10%3);
-    // console.log(12%5);
+// console.log(10%3);
+// console.log(12%5);
 
 //  ++ : 1 arttırmak için kullanılır
 
@@ -57,6 +54,5 @@
 // a--; //10
 // console.log(a);
 
-
-// ** : 2^3 = 8 
+// ** : 2^3 = 8
 // console.log(5**3);

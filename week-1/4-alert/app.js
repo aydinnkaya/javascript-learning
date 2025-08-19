@@ -7,7 +7,7 @@
 
 // console.log(window);
 
-// alert("İşleminize devam etmeden önce kaydetmelisiniz!");
+alert("İşleminize devam etmeden önce kaydetmelisiniz!");
 
 //Prompt(); Kullanıcıdan değer alabiliyoruz...
 

@@ -6,7 +6,6 @@
     !  : değil
 */
 
-
 // Yaşınız 18'den büyükse VE 3000 TL para olması VE Sağlığınız yerindeyse
 
 let yas = 20;
@@ -18,9 +17,6 @@ let hakSayisi = 3;
 
 // console.log(5>3 || 2<1);
 
-
 // console.log(  !(saglikliMi)   );
 
-
 // console.log((para>3000 && hakSayisi>1) || (yas>18 && saglikliMi));
-

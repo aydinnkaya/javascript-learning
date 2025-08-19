@@ -15,10 +15,10 @@
 
 // == : eşittir.
 
-// let a = 5;
-// let b = 10;
-// let sonuc = a+b;
-// console.log(sonuc ==15);
+let a = 5;
+let b = 10;
+let sonuc = a + b;
+console.log(sonuc == 15);
 
 // == :  sadece değerleri kontrol eder tipleri kontrol etmez
 // console.log(5=="5");

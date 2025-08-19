@@ -11,9 +11,9 @@
 */
 
 //----------------STRİNG VERİTİPİ-----------------
-// let isim = "Aydın kaya 23 yaşındadır.";
-// console.log(isim);
-// console.log(typeof isim);
+let isim = "Aydin kaya 23 yaşindadir.";
+console.log(isim);
+console.log(typeof isim);
 
 // let sayi1 = 10.7;
 // let sayi2 = 5.3;
