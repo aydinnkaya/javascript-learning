@@ -18,3 +18,14 @@ debugger;
 yazdir("aydin", "kaya");
 yazdir("ilber", "kaya");
 yazdir("enes", "yayla");
+
+// ! Return: return altında kalan satırdaki code çalışmaz(Unreachable code detected.) (ulaşılamayan code tespit edildi)
+
+function thisTime(time) {
+  let result = time * 60;
+  return result;
+  let soyisim = "fff";
+}
+
+let timeResult = thisTime(60);
+console.log("Time Result: " + timeResult);
