@@ -3,11 +3,11 @@
 // }
 
 // console.log(make);
-// // * fonksiyonların nerede tanımlı olduklarnın
-// //   önemi bulunmamaktadır. Nerde yazılır ise yazılsın çagırıldığı yerden çalışır.
-// make();
-// debugger;
-// make();
+// * fonksiyonların nerede tanımlı olduklarnın
+//   önemi bulunmamaktadır. Nerde yazılır ise yazılsın çagırıldığı yerden çalışır.
+make();
+debugger;
+make();
 
 function yazdir(isim, soyisim) {
   debugger;
@@ -29,3 +29,28 @@ function thisTime(time) {
 
 let timeResult = thisTime(60);
 console.log("Time Result: " + timeResult);
+
+// convertDecimalToBinar1(6); //110
+
+// function convertDecimalToBinary1(number) {
+//   let binary = "";
+//   while (true) {
+//     binary += Number(number % 2).toString();
+//     if (number == 1) {
+//       binary += 1;
+//       break;
+//     }
+//   }
+//   let result = reverse(binary);
+//   console.log("Sonuç : " + result);
+// }
+
+// // binary "110"
+
+// function converse1(binary) {
+//   let reverseBinary = "";
+//   for (let i = binary.length - 1; i >= 0; i--) {
+//     reverseBinary += binary.charAt(i);
+//   }
+//   return reverseBinary;
+// }
